@@ -5,6 +5,6 @@ This project focuses on using the spring boot redis reactive module to use redis
 
 ## Usage
 
-1. Create Mongodb container
+1. Create Redis container
 
         docker-compose up -d
